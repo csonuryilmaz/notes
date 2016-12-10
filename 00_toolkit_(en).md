@@ -17,13 +17,16 @@ This documentation contains some tools that I have been using as a developer on 
 * [Ristretto](http://docs.xfce.org/apps/ristretto/start)
 
 ### Web Browser
-
+* [Chrome](https://www.google.com/chrome/)
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+* [Opera](http://www.opera.com/)
 
 ### E-mail Client
 * [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
 
 ### Office
 * [LibreOffice](https://www.libreoffice.org/)
+* [FoxitReader](https://www.foxitsoftware.com/products/pdf-reader/)
 
 ### Terminal
 * [Guake](http://guake.org/)
@@ -36,4 +39,17 @@ This documentation contains some tools that I have been using as a developer on 
 ### Virtualization
 * [VirtualBox](https://www.virtualbox.org/)
 
+### File Sharing & Transfer
+* [Dropbox](https://www.dropbox.com/)
+* [FileZilla](https://filezilla-project.org/)
+* [QBittorrent](http://www.qbittorrent.org/)
+* [uTorrent](http://www.utorrent.com/)
+
+### Remote Desktop
+* [Remmina](http://www.remmina.org/wp/)
+* [TeamViewer](https://www.teamviewer.com/en/)
+
+### Communication
+* [Slack](https://slack.com/)
+* [Skype](https://www.skype.com/en/)
 
