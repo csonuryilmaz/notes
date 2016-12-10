@@ -2,13 +2,16 @@
 
 This documentation contains some tools that I have been using as a developer on my working and leisure hours. I tried to categorize them according to functionality that I used more. So, the list is subjective. During my career I used lots of tools which doesn't exist anymore. To keep the list short and up-to-date, I listed only the tools currently I'm using.
 
-### IDEs & Editors
+### IDEs
 * [Netbeans](https://netbeans.org/)
-* [Mousepad](https://github.com/codebrainz/mousepad)
-* [TextWrangler](http://www.barebones.com/products/TextWrangler/)
 * [XamarinStudio](https://www.xamarin.com/studio)
 * [AndroidStudio](https://developer.android.com/studio/index.html)
 * [XCode](https://developer.apple.com/xcode/)
+
+### Editors
+* [Mousepad](https://github.com/codebrainz/mousepad)
+* [TextWrangler](http://www.barebones.com/products/TextWrangler/)
+* [Notepad++](https://notepad-plus-plus.org/)
 
 ### Database Clients
 * [SQliteBrowser](http://sqlitebrowser.org/)
