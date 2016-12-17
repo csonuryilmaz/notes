@@ -1,10 +1,10 @@
 ## Toolkit
 
-This documentation contains some tools that I have been using on my workstations and laptops. Most of them are the utilities that I have used in my work hours as a developer, and the others are tools that I have used in my leisure times as a software enthusiast. 
+This documentation contains some tools that I have been using on my workstations and laptops. Most of them are the utilities that I have used in my work hours as a developer, and the others are tools that I have used in my leisure times as a software enthusiast.
 
 I tried to categorize them according to functionality that I used more. So, categorization of the list is subjective. That's my point of view.
 
-During my career I used lots of tools. Some of them doesn't exist anymore. It's impossible to list all of those and it will be useless for me to keep the tools that I haven't used recently. For the sake of keeping list short and up-to-date, I listed only the active ones which currently I'm using. 
+During my career I used lots of tools. Some of them doesn't exist anymore. It's impossible to list all of those and it will be useless for me to keep the tools that I haven't used recently. For the sake of keeping list short and up-to-date, I listed only the active ones which currently I'm using.
 
 Also I want to write note or one line description for each tool in order to document them briefly. It will be something like annotation. Mostly it will explain my use case for that tool.
 
@@ -19,16 +19,19 @@ In the last section, I put together command-line tools all in one place. Some of
 * [XCode](https://developer.apple.com/xcode/)
 * [GNU Octave](https://www.gnu.org/software/octave/) **(*)**
 * [RStudio](https://www.rstudio.com/) **(*)**
+* [Atom](https://atom.io/) **(*)**
 
 ### Editors
 * [Mousepad](https://github.com/codebrainz/mousepad)
 * [TextWrangler](http://www.barebones.com/products/TextWrangler/)
 * [Notepad++](https://notepad-plus-plus.org/)
+* [ReText](https://sourceforge.net/projects/retext/)
 
 ### Database
 * [SQliteBrowser](http://sqlitebrowser.org/)
 * [Dbeaver](http://dbeaver.jkiss.org/)
 * [HeidiSQL](http://www.heidisql.com/)
+* [MongoDB Compass](https://www.mongodb.com/products/compass) **(*)**
 
 ### Diff
 * [DiffMerge](https://sourcegear.com/diffmerge/)
@@ -125,5 +128,30 @@ In the last section, I put together command-line tools all in one place. Some of
 * [UNetbootin](https://unetbootin.github.io/)
 * [Guake](http://guake.org/)
 
-### Command Line (terminal/console)
+### Command Line - [Bash](http://ss64.com/bash/) Commands
+* [top](http://man7.org/linux/man-pages/man1/top.1.html)
+* [head](http://man7.org/linux/man-pages/man1/head.1.html)
+* [tail](http://man7.org/linux/man-pages/man1/tail.1.html)
+* [crontab](http://man7.org/linux/man-pages/man1/crontab.1.html)
+* [history](http://ss64.com/bash/history.html)
+* [grep](http://ss64.com/bash/grep.html)
+* [rsync](http://ss64.com/bash/rsync.html)
+* [ssh](http://ss64.com/bash/ssh.html)
+* [ncal](https://www.freebsd.org/cgi/man.cgi?ncal)
+* [ping](http://ss64.com/bash/ping.html)
+* [sed](http://ss64.com/bash/sed.html)
+* [find](http://ss64.com/bash/find.html)
+* [nohup](http://ss64.com/bash/nohup.html)
+* [du](http://ss64.com/bash/du.html)
+* [df](http://ss64.com/bash/df.html)
+* [dd](http://ss64.com/bash/dd.html)
+* [date](http://ss64.com/bash/date.html)
 
+### Command Line Applications
+
+* [nano](https://www.nano-editor.org/)
+* [nmon](http://nmon.sourceforge.net/pmwiki.php)
+* [brew](http://brew.sh/)
+* [svn](https://subversion.apache.org/)
+* [wget](https://www.gnu.org/software/wget/)
+* [curl](https://curl.haxx.se/)
