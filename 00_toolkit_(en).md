@@ -127,6 +127,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [HardInfo](https://sourceforge.net/projects/hardinfo.berlios/)
 * [UNetbootin](https://unetbootin.github.io/)
 * [Guake](http://guake.org/)
+* [MightyText](https://mightytext.net/) **(*)**
 
 ### Command Line - [Bash](http://ss64.com/bash/) Commands
 * [top](http://man7.org/linux/man-pages/man1/top.1.html)
@@ -157,3 +158,4 @@ In the last section, I put together command-line tools all in one place. Some of
 * [curl](https://curl.haxx.se/)
 * [links2](https://packages.debian.org/jessie/links2) **(*)**
 * [w3m](http://w3m.sourceforge.net/) **(*)**
+* [apt-get](https://linux.die.net/man/8/apt-get)
