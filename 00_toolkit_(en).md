@@ -155,3 +155,5 @@ In the last section, I put together command-line tools all in one place. Some of
 * [svn](https://subversion.apache.org/)
 * [wget](https://www.gnu.org/software/wget/)
 * [curl](https://curl.haxx.se/)
+* [links2](https://packages.debian.org/jessie/links2) **(*)**
+* [w3m](http://w3m.sourceforge.net/) **(*)**
