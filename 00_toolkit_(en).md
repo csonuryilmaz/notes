@@ -147,6 +147,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [df](http://ss64.com/bash/df.html)
 * [dd](http://ss64.com/bash/dd.html)
 * [date](http://ss64.com/bash/date.html)
+* [man](http://linuxcommand.org/man_pages/man1.html)
 
 ### Command Line Applications
 
@@ -159,3 +160,4 @@ In the last section, I put together command-line tools all in one place. Some of
 * [links2](https://packages.debian.org/jessie/links2) **(*)**
 * [w3m](http://w3m.sourceforge.net/) **(*)**
 * [apt-get](https://linux.die.net/man/8/apt-get)
+* [nethogs](https://github.com/raboof/nethogs)
