@@ -161,3 +161,4 @@ In the last section, I put together command-line tools all in one place. Some of
 * [w3m](http://w3m.sourceforge.net/) **(*)**
 * [apt-get](https://linux.die.net/man/8/apt-get)
 * [nethogs](https://github.com/raboof/nethogs)
+* [ncdu](https://sourceforge.net/projects/ncdu/)
