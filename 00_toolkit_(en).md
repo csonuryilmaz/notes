@@ -148,6 +148,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [dd](http://ss64.com/bash/dd.html)
 * [date](http://ss64.com/bash/date.html)
 * [man](http://linuxcommand.org/man_pages/man1.html)
+* [kill](http://ss64.com/bash/kill.html)
 
 ### Command Line Applications
 
