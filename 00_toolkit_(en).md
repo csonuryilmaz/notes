@@ -149,6 +149,9 @@ In the last section, I put together command-line tools all in one place. Some of
 * [date](http://ss64.com/bash/date.html)
 * [man](http://linuxcommand.org/man_pages/man1.html)
 * [kill](http://ss64.com/bash/kill.html)
+* [scp](http://ss64.com/bash/scp.html)
+* [awk](http://ss64.com/bash/awk.html)
+* [watch](http://ss64.com/bash/watch.html)
 
 ### Command Line Applications
 
