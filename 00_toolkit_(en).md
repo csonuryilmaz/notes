@@ -152,6 +152,10 @@ In the last section, I put together command-line tools all in one place. Some of
 * [scp](http://ss64.com/bash/scp.html)
 * [awk](http://ss64.com/bash/awk.html)
 * [watch](http://ss64.com/bash/watch.html)
+* [chmod](http://ss64.com/bash/chmod.html)
+* [chown](http://ss64.com/bash/chown.html)
+* [useradd](http://ss64.com/bash/useradd.html)
+* [passwd](http://ss64.com/bash/passwd.html)
 
 ### Command Line Applications
 
