@@ -156,6 +156,9 @@ In the last section, I put together command-line tools all in one place. Some of
 * [chown](http://ss64.com/bash/chown.html)
 * [useradd](http://ss64.com/bash/useradd.html)
 * [passwd](http://ss64.com/bash/passwd.html)
+* [export](http://ss64.com/bash/export.html)
+* [userdel](http://ss64.com/bash/userdel.html)
+
 
 ### Command Line Applications
 
@@ -170,3 +173,4 @@ In the last section, I put together command-line tools all in one place. Some of
 * [apt-get](https://linux.die.net/man/8/apt-get)
 * [nethogs](https://github.com/raboof/nethogs)
 * [ncdu](https://sourceforge.net/projects/ncdu/)
+* [pwgen](https://sourceforge.net/projects/pwgen/)
