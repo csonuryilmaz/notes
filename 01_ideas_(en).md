@@ -23,3 +23,7 @@ With quick search, I have found these web resources. It could be a good starting
 * [SQL to Mongo Query Translator (querymongo.com)](https://news.ycombinator.com/item?id=4909799)
 * [SlamData](https://slamdata.com/get-slamdata/)
 * [Teiid](http://teiid.jboss.org/)
+
+##### Netbeans Get Code Review Location Plugin
+
+You will select some portion of code. It will copy the file path + class name + method name + selected portion into clipboard in markdown format. You will paste it into redmine issue and write review note about *that location*. I can download opensource plugins and make my changes on them.
