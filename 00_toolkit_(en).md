@@ -158,7 +158,9 @@ In the last section, I put together command-line tools all in one place. Some of
 * [passwd](http://ss64.com/bash/passwd.html)
 * [export](http://ss64.com/bash/export.html)
 * [userdel](http://ss64.com/bash/userdel.html)
-
+* [jobs](http://ss64.com/bash/jobs.html)
+* [echo](http://ss64.com/bash/echo.html)
+* [disown](http://ss64.com/bash/syntax-jobs.html)
 
 ### Command Line Applications
 
