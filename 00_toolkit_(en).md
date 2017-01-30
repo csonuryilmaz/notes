@@ -126,7 +126,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [Q4Wine](https://sourceforge.net/projects/q4wine/)
 * [HardInfo](https://sourceforge.net/projects/hardinfo.berlios/)
 * [UNetbootin](https://unetbootin.github.io/)
-* [Guake](http://guake.org/)
+* ~~[Guake](http://guake.org/)~~ [Terminator](https://gnometerminator.blogspot.com.tr/p/introduction.html)
 * [MightyText](https://mightytext.net/) **(*)**
 
 ### Command Line - [Bash](http://ss64.com/bash/) Commands
