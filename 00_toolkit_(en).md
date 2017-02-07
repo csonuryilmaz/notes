@@ -46,7 +46,6 @@ In the last section, I put together command-line tools all in one place. Some of
 * [PaintBrush](http://paintbrush.sourceforge.net/)
 * [GPicView](http://lxde.sourceforge.net/gpicview/)
 * [Inkscape](https://inkscape.org/en/) **(*)**
-* [ReText](https://github.com/retext-project/retext)
 
 ### Web Browsers
 * [Chrome](https://www.google.com/chrome/)
@@ -57,6 +56,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [Fabric](https://fabric.io/home)
 * [Postman](https://www.getpostman.com/)
 * [TortoiseSVN](https://tortoisesvn.net/downloads.html)
+* [Docker](https://www.docker.com/) **(*)**
 
 ### Office Apps
 * [LibreOffice](https://www.libreoffice.org/)
@@ -86,9 +86,10 @@ In the last section, I put together command-line tools all in one place. Some of
 ### Instant Messaging
 * [Slack](https://slack.com/)
 * [Skype](https://www.skype.com/en/)
+* [Whatsapp](https://web.whatsapp.com/)
 
 ### Utilities
-* [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
+* ~~[Thunderbird](https://www.mozilla.org/en-US/thunderbird/)~~
 * [Gparted](http://gparted.org/)
 * [Redshift](http://jonls.dk/redshift/)
 * [Password Gorilla](https://github.com/zdia/gorilla/wiki)
@@ -161,6 +162,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [jobs](http://ss64.com/bash/jobs.html)
 * [echo](http://ss64.com/bash/echo.html)
 * [disown](http://ss64.com/bash/syntax-jobs.html)
+* [sftp](http://ss64.com/nt/ftp.html)
 
 ### Command Line Applications
 
