@@ -128,7 +128,8 @@ In the last section, I put together command-line tools all in one place. Some of
 * [HardInfo](https://sourceforge.net/projects/hardinfo.berlios/)
 * [UNetbootin](https://unetbootin.github.io/)
 * ~~[Guake](http://guake.org/)~~ [Terminator](https://gnometerminator.blogspot.com.tr/p/introduction.html)
-* [MightyText](https://mightytext.net/) **(*)**
+* [MightyText](https://mightytext.net/) - Chrome plugin is awesome!
+* [Avidemux](http://avidemux.sourceforge.net/)
 
 ### Command Line - [Bash](http://ss64.com/bash/) Commands
 * [top](http://man7.org/linux/man-pages/man1/top.1.html)
@@ -163,6 +164,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [echo](http://ss64.com/bash/echo.html)
 * [disown](http://ss64.com/bash/syntax-jobs.html)
 * [sftp](http://ss64.com/nt/ftp.html)
+* [service](http://www.tutorialspoint.com/unix_commands/service.htm)
 
 ### Command Line Applications
 
@@ -178,3 +180,4 @@ In the last section, I put together command-line tools all in one place. Some of
 * [nethogs](https://github.com/raboof/nethogs)
 * [ncdu](https://sourceforge.net/projects/ncdu/)
 * [pwgen](https://sourceforge.net/projects/pwgen/)
+* [rcconf](https://packages.debian.org/jessie/admin/rcconf)
