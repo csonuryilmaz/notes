@@ -25,9 +25,8 @@ In the last section, I put together command-line tools all in one place. Some of
 * [Mousepad](https://github.com/codebrainz/mousepad)
 * [TextWrangler](http://www.barebones.com/products/TextWrangler/)
 * [Notepad++](https://notepad-plus-plus.org/)
-* [ReText](https://sourceforge.net/projects/retext/)
 
-### Database
+### Database Clients
 * [SQliteBrowser](http://sqlitebrowser.org/)
 * [Dbeaver](http://dbeaver.jkiss.org/)
 * [HeidiSQL](http://www.heidisql.com/)
@@ -65,6 +64,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [ZinioReader](https://gb.zinio.com/www/apps/desktop.jsp)
 * [Lucidor](http://lucidor.org/lucidor/)
 * [xCHM](http://xchm.sourceforge.net/)
+* [Zimbra](https://www.zimbra.com) I have replaced its web client, with thunderbird. It has awesome interface.
 
 ### Virtualization/Emulation
 * [VirtualBox](https://www.virtualbox.org/)
@@ -89,7 +89,6 @@ In the last section, I put together command-line tools all in one place. Some of
 * [Whatsapp](https://web.whatsapp.com/)
 
 ### Utilities
-* ~~[Thunderbird](https://www.mozilla.org/en-US/thunderbird/)~~
 * [Gparted](http://gparted.org/)
 * [Redshift](http://jonls.dk/redshift/)
 * [Password Gorilla](https://github.com/zdia/gorilla/wiki)
@@ -127,7 +126,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [Q4Wine](https://sourceforge.net/projects/q4wine/)
 * [HardInfo](https://sourceforge.net/projects/hardinfo.berlios/)
 * [UNetbootin](https://unetbootin.github.io/)
-* ~~[Guake](http://guake.org/)~~ [Terminator](https://gnometerminator.blogspot.com.tr/p/introduction.html)
+* [Terminator](https://gnometerminator.blogspot.com.tr/p/introduction.html)
 * [MightyText](https://mightytext.net/) - Chrome plugin is awesome!
 * [Avidemux](http://avidemux.sourceforge.net/)
 
