@@ -56,6 +56,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [Postman](https://www.getpostman.com/)
 * [TortoiseSVN](https://tortoisesvn.net/downloads.html)
 * [Docker](https://www.docker.com/) **(*)**
+* [Svn-Workbench](http://pysvn.tigris.org/docs/WorkBench.html)
 
 ### Office Apps
 * [LibreOffice](https://www.libreoffice.org/)
@@ -65,6 +66,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [Lucidor](http://lucidor.org/lucidor/)
 * [xCHM](http://xchm.sourceforge.net/)
 * [Zimbra](https://www.zimbra.com) I have replaced its web client, with thunderbird. It has awesome interface.
+* [Taskwarrior](https://taskwarrior.org/)
 
 ### Virtualization/Emulation
 * [VirtualBox](https://www.virtualbox.org/)
