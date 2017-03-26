@@ -13,4 +13,7 @@ and most importantly I take written notes from those activites. By keeping them 
 
 Most of them are in English, but some of them are in Turkish. File name contains the document's content language in ISO 639-1 (two-letter codes) standard. So (tr) means the content is in Turkish and (en) means the content is in English.
 
-All feedbacks and contributions are wellcome. Happy learning!
+All feedbacks and contributions are wellcome. Happy learning! :coffee:
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/csonuryilmaz.svg?style=social)](https://twitter.com/csonuryilmaz)
+[![GitHub stars](https://img.shields.io/github/stars/csonuryilmaz/notes.svg?style=social&label=Star)](https://github.com/csonuryilmaz/notes)
