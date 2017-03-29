@@ -57,6 +57,8 @@ In the last section, I put together command-line tools all in one place. Some of
 * [TortoiseSVN](https://tortoisesvn.net/downloads.html)
 * [Docker](https://www.docker.com/) **(*)**
 * [Svn-Workbench](http://pysvn.tigris.org/docs/WorkBench.html)
+* [Charles](https://www.charlesproxy.com/)
+* [PacketSender](https://packetsender.com/)
 
 ### Office Apps
 * [LibreOffice](https://www.libreoffice.org/)
