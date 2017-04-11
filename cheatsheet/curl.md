@@ -80,3 +80,16 @@ Save output to a file with -o option. (to save only response data we used silent
 ```
 [root@webh ~]# curl -so github-api.json https://api.github.com/
 ```
+When you come with a SSL error on https URLs, you can force curl to use *insecure* SSL connection and transfers.
+```
+onur@habion:~/github$ curl  https://api.github.com/markdown/raw
+curl: (60) SSL certificate problem: unable to get local issuer certificate
+More details here: http://curl.haxx.se/docs/sslcerts.html
+...
+...
+onur@habion:~/github$ curl -k https://api.github.com/markdown/raw
+{
+  "message": "Not Found",
+  "documentation_url": "https://developer.github.com/v3"
+}
+```
