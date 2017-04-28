@@ -40,7 +40,7 @@ In the last section, I put together command-line tools all in one place. Some of
 ### Image View & Processing
 * [Gimp](https://www.gimp.org/)
 * [Gpaint](https://www.gnu.org/software/gpaint/)
-* [ImageMagick](https://www.imagemagick.org/script/index.php)
+* [Viewnior](http://siyanpanayotov.com/project/viewnior/)
 * [Ristretto](http://docs.xfce.org/apps/ristretto/start)
 * [PaintBrush](http://paintbrush.sourceforge.net/)
 * [GPicView](http://lxde.sourceforge.net/gpicview/)
