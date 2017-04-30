@@ -1,4 +1,4 @@
-## Toolkit
+# Toolkit
 
 This documentation contains some tools that I have been using on my workstations and laptops. Most of them are the utilities that I have used in my work hours as a developer, and the others are tools that I have used in my leisure times as a software enthusiast.
 
@@ -12,46 +12,52 @@ In the last section, I put together command-line tools all in one place. Some of
 
 **(*)**: It means that the tool is new and experimental for me. I haven't used it very much. I'm trying something new, but not currently adopted.
 
-### IDEs
+## IDEs
+
 * [Netbeans](https://netbeans.org/)
 * [XamarinStudio](https://www.xamarin.com/studio)
 * [AndroidStudio](https://developer.android.com/studio/index.html)
 * [XCode](https://developer.apple.com/xcode/)
 * [GNU Octave](https://www.gnu.org/software/octave/) **(*)**
 * [RStudio](https://www.rstudio.com/) **(*)**
-* [Atom](https://atom.io/) **(*)**
+* [VS Code](https://code.visualstudio.com/)
 
-### Editors
+## Editors
+
 * [Mousepad](https://github.com/codebrainz/mousepad)
 * [TextWrangler](http://www.barebones.com/products/TextWrangler/)
 * [Notepad++](https://notepad-plus-plus.org/)
 
-### Database Clients
+## Database Clients
+
 * [SQliteBrowser](http://sqlitebrowser.org/)
 * [Dbeaver](http://dbeaver.jkiss.org/)
 * [HeidiSQL](http://www.heidisql.com/)
 * [MongoDB Compass](https://www.mongodb.com/products/compass) **(*)**
 
-### Diff
+## Diff
+
 * [DiffMerge](https://sourcegear.com/diffmerge/)
 * [Meld](http://meldmerge.org/)
 * [WinMerge](http://winmerge.org/?lang=en)
 
-### Image View & Processing
+## Image View & Processing
+
 * [Gimp](https://www.gimp.org/)
 * [Gpaint](https://www.gnu.org/software/gpaint/)
 * [Viewnior](http://siyanpanayotov.com/project/viewnior/)
 * [Ristretto](http://docs.xfce.org/apps/ristretto/start)
 * [PaintBrush](http://paintbrush.sourceforge.net/)
 * [GPicView](http://lxde.sourceforge.net/gpicview/)
-* [Inkscape](https://inkscape.org/en/) **(*)**
 
-### Web Browsers
+## Web Browsers
+
 * [Chrome](https://www.google.com/chrome/)
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 * [Opera](http://www.opera.com/)
 
-### DevTools
+## DevTools
+
 * [Fabric](https://fabric.io/home)
 * [Postman](https://www.getpostman.com/)
 * [TortoiseSVN](https://tortoisesvn.net/downloads.html)
@@ -61,39 +67,46 @@ In the last section, I put together command-line tools all in one place. Some of
 * [PacketSender](https://packetsender.com/)
 * [Ant](http://ant.apache.org/)
 
-### Office Apps
+## Office Apps
+
 * [LibreOffice](https://www.libreoffice.org/)
 * [FoxitReader](https://www.foxitsoftware.com/products/pdf-reader/)
 * [Xournal](http://xournal.sourceforge.net/)
 * [ZinioReader](https://gb.zinio.com/www/apps/desktop.jsp)
 * [Lucidor](http://lucidor.org/lucidor/)
 * [xCHM](http://xchm.sourceforge.net/)
-* [Zimbra](https://www.zimbra.com) I have replaced its web client, with thunderbird. It has awesome interface.
+* [Zimbra](https://www.zimbra.com)
 * [Taskwarrior](https://taskwarrior.org/)
+* [Pocket](https://getpocket.com)
 
-### Virtualization/Emulation
+## Virtualization/Emulation
+
 * [VirtualBox](https://www.virtualbox.org/)
 * [Wine](https://www.winehq.org/)
 * [Genymotion](https://www.genymotion.com/)
 * [DosBox](http://www.dosbox.com/)
 
-### File Sharing & Transfer
+## File Sharing & Transfer
+
 * [Dropbox](https://www.dropbox.com/)
 * [FileZilla](https://filezilla-project.org/)
 * [QBittorrent](http://www.qbittorrent.org/)
 * [uTorrent](http://www.utorrent.com/)
 * [uGet](http://ugetdm.com/)
 
-### Remote Desktop
+## Remote Desktop
+
 * [Remmina](http://www.remmina.org/wp/)
 * [TeamViewer](https://www.teamviewer.com/en/)
 
-### Instant Messaging
+## Instant Messaging
+
 * [Slack](https://slack.com/)
 * [Skype](https://www.skype.com/en/)
 * [Whatsapp](https://web.whatsapp.com/)
 
-### Utilities
+## Utilities
+
 * [Gparted](http://gparted.org/)
 * [Redshift](http://jonls.dk/redshift/)
 * [Password Gorilla](https://github.com/zdia/gorilla/wiki)
@@ -135,7 +148,8 @@ In the last section, I put together command-line tools all in one place. Some of
 * [MightyText](https://mightytext.net/) - Chrome plugin is awesome!
 * [Avidemux](http://avidemux.sourceforge.net/)
 
-### Command Line - [Bash](http://ss64.com/bash/) Commands
+## Command Line - [Bash](http://ss64.com/bash/) Commands
+
 * [top](http://man7.org/linux/man-pages/man1/top.1.html)
 * [head](http://man7.org/linux/man-pages/man1/head.1.html)
 * [tail](http://man7.org/linux/man-pages/man1/tail.1.html)
@@ -170,7 +184,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [sftp](http://ss64.com/nt/ftp.html)
 * [service](http://www.tutorialspoint.com/unix_commands/service.htm)
 
-### Command Line Applications
+## Command Line Applications
 
 * [nano](https://www.nano-editor.org/)
 * [nmon](http://nmon.sourceforge.net/pmwiki.php)
