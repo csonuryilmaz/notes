@@ -183,6 +183,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [disown](http://ss64.com/bash/syntax-jobs.html)
 * [sftp](http://ss64.com/nt/ftp.html)
 * [service](http://www.tutorialspoint.com/unix_commands/service.htm)
+* [stat](https://ss64.com/bash/stat.html)
 
 ## Command Line Applications
 
