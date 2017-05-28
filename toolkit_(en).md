@@ -10,16 +10,12 @@ Also I want to write note or one line description for each tool in order to docu
 
 In the last section, I put together command-line tools all in one place. Some of them are pre-installed in most distributions. Those which aren't pre-installed can be installed by package managers easily.
 
-**(*)**: It means that the tool is new and experimental for me. I haven't used it very much. I'm trying something new, but not currently adopted.
-
 ## IDEs
 
 * [Netbeans](https://netbeans.org/)
 * [XamarinStudio](https://www.xamarin.com/studio)
 * [AndroidStudio](https://developer.android.com/studio/index.html)
 * [XCode](https://developer.apple.com/xcode/)
-* [GNU Octave](https://www.gnu.org/software/octave/) **(*)**
-* [RStudio](https://www.rstudio.com/) **(*)**
 * [VS Code](https://code.visualstudio.com/)
 
 ## Editors
@@ -33,7 +29,6 @@ In the last section, I put together command-line tools all in one place. Some of
 * [SQliteBrowser](http://sqlitebrowser.org/)
 * [Dbeaver](http://dbeaver.jkiss.org/)
 * [HeidiSQL](http://www.heidisql.com/)
-* [MongoDB Compass](https://www.mongodb.com/products/compass) **(*)**
 
 ## Diff
 
@@ -61,8 +56,6 @@ In the last section, I put together command-line tools all in one place. Some of
 * [Fabric](https://fabric.io/home)
 * [Postman](https://www.getpostman.com/)
 * [TortoiseSVN](https://tortoisesvn.net/downloads.html)
-* [Docker](https://www.docker.com/) **(*)**
-* [Svn-Workbench](http://pysvn.tigris.org/docs/WorkBench.html)
 * [Charles](https://www.charlesproxy.com/)
 * [PacketSender](https://packetsender.com/)
 * [Ant](http://ant.apache.org/)
@@ -132,10 +125,9 @@ In the last section, I put together command-line tools all in one place. Some of
 * [FuriusISOMount](https://launchpad.net/furiusisomount)
 * [Galculator](http://galculator.mnim.org/)
 * [GDiskDump](https://launchpad.net/gdiskdump)
-* [K4DirStat](http://kdirstat.sourceforge.net/)
 * [PeaZip](http://www.peazip.org/)
-* [Anki](http://ankisrs.net/) **(*)**
-* [Viking](https://sourceforge.net/projects/viking/) **(*)**
+* [Anki](http://ankisrs.net/)
+* [Viking](https://sourceforge.net/projects/viking/)
 * [XSane](http://www.xsane.org/)
 * [GoogleEarth](https://www.google.com/earth/)
 * [GnuCash](https://www.gnucash.org/)
@@ -193,8 +185,8 @@ In the last section, I put together command-line tools all in one place. Some of
 * [svn](https://subversion.apache.org/)
 * [wget](https://www.gnu.org/software/wget/)
 * [curl](https://curl.haxx.se/)
-* [links2](https://packages.debian.org/jessie/links2) **(*)**
-* [w3m](http://w3m.sourceforge.net/) **(*)**
+* [links2](https://packages.debian.org/jessie/links2)
+* [w3m](http://w3m.sourceforge.net/)
 * [apt-get](https://linux.die.net/man/8/apt-get)
 * [nethogs](https://github.com/raboof/nethogs)
 * [ncdu](https://sourceforge.net/projects/ncdu/)
