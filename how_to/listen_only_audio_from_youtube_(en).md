@@ -34,3 +34,13 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
 Finally, **mpv** played youtube link successfully.
 ![Mpv package @Synaptic](/how_to/images/mpv-debian-8/mpv-debian-8-5.png?raw=true "Mpv package @Synaptic")
 
+#### Installing Mpv on Debian 9
+It's very easy and no surprise while installing with package manager. All packages and its dependencies are suitable.
+```bash
+sudo apt install mpv/stable
+```
+or
+```bash
+sudo apt-get install mpv
+```
+will be enough to install mpv.
