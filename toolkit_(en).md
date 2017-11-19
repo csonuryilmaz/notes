@@ -16,13 +16,12 @@ In the last section, I put together command-line tools all in one place. Some of
 * [XamarinStudio](https://www.xamarin.com/studio)
 * [AndroidStudio](https://developer.android.com/studio/index.html)
 * [XCode](https://developer.apple.com/xcode/)
-* [VS Code](https://code.visualstudio.com/)
 
 ## Editors
 
 * [Mousepad](https://github.com/codebrainz/mousepad)
-* [TextWrangler](http://www.barebones.com/products/TextWrangler/)
 * [Notepad++](https://notepad-plus-plus.org/)
+* [VS Code](https://code.visualstudio.com/)
 
 ## Database Clients
 
@@ -194,3 +193,4 @@ In the last section, I put together command-line tools all in one place. Some of
 * [ncdu](https://sourceforge.net/projects/ncdu/)
 * [pwgen](https://sourceforge.net/projects/pwgen/)
 * [rcconf](https://packages.debian.org/jessie/admin/rcconf)
+* [mpv](https://mpv.io/)
