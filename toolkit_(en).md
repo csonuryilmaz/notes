@@ -13,7 +13,6 @@ In the last section, I put together command-line tools all in one place. Some of
 ## IDEs
 
 * [Netbeans](https://netbeans.org/)
-* [XamarinStudio](https://www.xamarin.com/studio)
 * [AndroidStudio](https://developer.android.com/studio/index.html)
 * [XCode](https://developer.apple.com/xcode/)
 
@@ -28,17 +27,19 @@ In the last section, I put together command-line tools all in one place. Some of
 * [SQliteBrowser](http://sqlitebrowser.org/)
 * [Dbeaver](http://dbeaver.jkiss.org/)
 * [HeidiSQL](http://www.heidisql.com/)
+* [TeamSQL](https://teamsql.io/)
 
 ## Diff
 
 * [DiffMerge](https://sourcegear.com/diffmerge/)
 * [Meld](http://meldmerge.org/)
 * [WinMerge](http://winmerge.org/?lang=en)
+* [FileMerge](https://developer.apple.com/xcode/features/)
 
 ## Image View & Processing
 
 * [Gimp](https://www.gimp.org/)
-* [Gpaint](https://www.gnu.org/software/gpaint/)
+* [mtPaint](http://mtpaint.sourceforge.net/)
 * [Viewnior](http://siyanpanayotov.com/project/viewnior/)
 * [Ristretto](http://docs.xfce.org/apps/ristretto/start)
 * [PaintBrush](http://paintbrush.sourceforge.net/)
@@ -49,6 +50,9 @@ In the last section, I put together command-line tools all in one place. Some of
 * [Chrome](https://www.google.com/chrome/)
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 * [Opera](http://www.opera.com/)
+* [Safari](https://www.apple.com/lae/safari/)
+* [Min](https://github.com/minbrowser/min)
+* [Brave](https://brave.com/)
 
 ## DevTools
 
@@ -58,6 +62,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [Charles](https://www.charlesproxy.com/)
 * [PacketSender](https://packetsender.com/)
 * [Ant](http://ant.apache.org/)
+* [Wireshark](https://www.wireshark.org/)
 
 ## Office Apps
 
@@ -71,6 +76,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [Taskwarrior](https://taskwarrior.org/)
 * [Pocket](https://getpocket.com)
 * [VokoScreen](http://linuxecke.volkoh.de/vokoscreen/vokoscreen.html)
+* [Evince](https://wiki.gnome.org/Apps/Evince)
 
 ## Virtualization/Emulation
 
@@ -194,3 +200,9 @@ In the last section, I put together command-line tools all in one place. Some of
 * [pwgen](https://sourceforge.net/projects/pwgen/)
 * [rcconf](https://packages.debian.org/jessie/admin/rcconf)
 * [mpv](https://mpv.io/)
+* [mutt](http://www.mutt.org/)
+* [mps-youtube](https://github.com/mps-youtube/mps-youtube)
+* [buku](https://github.com/jarun/Buku)
+* [hamachi](https://www.vpn.net/)
+* [goto](https://github.com/iridakos/goto)
+* [pandoc](https://pandoc.org/)
