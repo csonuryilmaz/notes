@@ -21,6 +21,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [Mousepad](https://github.com/codebrainz/mousepad)
 * [Notepad++](https://notepad-plus-plus.org/)
 * [VS Code](https://code.visualstudio.com/)
+* [Micro](https://github.com/zyedidia/micro)
 
 ## Database Clients
 
@@ -44,6 +45,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [Ristretto](http://docs.xfce.org/apps/ristretto/start)
 * [PaintBrush](http://paintbrush.sourceforge.net/)
 * [GPicView](http://lxde.sourceforge.net/gpicview/)
+* [Converseen](http://converseen.fasterland.net/)
 
 ## Web Browsers
 
@@ -145,6 +147,7 @@ In the last section, I put together command-line tools all in one place. Some of
 * [Terminator](https://gnometerminator.blogspot.com.tr/p/introduction.html)
 * [MightyText](https://mightytext.net/) - Chrome plugin is awesome!
 * [Avidemux](http://avidemux.sourceforge.net/)
+* [Flameshot](https://github.com/lupoDharkael/flameshot)
 
 ## Command Line - [Bash](http://ss64.com/bash/) Commands
 
@@ -206,3 +209,5 @@ In the last section, I put together command-line tools all in one place. Some of
 * [hamachi](https://www.vpn.net/)
 * [goto](https://github.com/iridakos/goto)
 * [pandoc](https://pandoc.org/)
+* [bat](https://github.com/sharkdp/bat)
+* [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html)
