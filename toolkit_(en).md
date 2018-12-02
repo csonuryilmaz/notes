@@ -65,6 +65,8 @@ In the last section, I put together command-line tools all in one place. Some of
 * [PacketSender](https://packetsender.com/)
 * [Ant](http://ant.apache.org/)
 * [Wireshark](https://www.wireshark.org/)
+* [Flyway](https://flywaydb.org/)
+* [Musique](https://flavio.tordini.org/musique)
 
 ## Office Apps
 
